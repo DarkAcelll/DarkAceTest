@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "AnimeAll.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1057,7 +1057,7 @@
         }
       ]
     },
-    "page2.html": {
+    "AnimeAll.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "AnimeAll",
