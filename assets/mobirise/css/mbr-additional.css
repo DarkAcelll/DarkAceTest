@@ -2466,3 +2466,12 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-s55PhdYy4y {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s55PhdYy4y .mbr-text,
+.cid-s55PhdYy4y blockquote {
+  color: #767676;
+}
